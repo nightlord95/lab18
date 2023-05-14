@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(cover.jpg);
+  height: 500px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(ocean-3605547__340.jpg);
+  height: 500px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(pexels-craig-adderley-1563356.jpg);
+  height: 500px;
+}
